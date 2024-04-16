@@ -8,7 +8,8 @@ Stanly Cup
 
 Starbucks
 - Palestine Protests
-- 
+- https://www-mergentonline-com.proxy2.cl.msu.edu/equitypricing.php?compnumber=73271
+
 
 Record the project goals and corresponding deadlines that you've identified for your group and who is going to work on each goal in the ProjectDiscussionAndPlanning.md file in your repo, but feel free to drop any important notes here as well, if that would be helpful.
 - Project Goal: Tracking Social Media Trends and Stock Prices of Related Companies
